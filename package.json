@@ -1,0 +1,17 @@
+{
+  "name": "diagonal-difference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diagonal-difference.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.0"
+  },
+  "dependencies": {
+    "gitignore": "^0.7.0"
+  }
+}
